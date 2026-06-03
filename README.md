@@ -12,7 +12,8 @@ May 2026 – Present
 ## Features:
 - 15 levels of combat
 - After each level, choose 1 buff from 3 random cards
-- 9 different buffs: +ATK, +SPD, +ASPD, +HP, thorns, lifesteal, on-hit heal, attack while moving, defend while moving
+- 10+ unique buffs: damage, attack speed, movement speed, health, thorns, lifesteal, on-hit heal, and more
+- Class-based card pool: each class has its own set of available cards
 - Build your own playstyle (attack speed + lifesteal, or thorns + on-hit heal)
 
 ## Technical highlights:
@@ -32,7 +33,9 @@ Dec 2025 – Dec 2025
 
 ## Features:
 - 8-direction movement with WASD
-- Moving platforms, disappearing platforms
+- Normal jump (1 tile) or **Shift + jump** (2 tiles)
+- 5 levels with increasing difficulty
+- Platform mechanics: moving, disappearing, one-time-use, and unlockable platforms
 - Multi-level system with scene management
 - Singleton pattern for game state
 
