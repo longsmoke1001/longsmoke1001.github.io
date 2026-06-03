@@ -49,4 +49,4 @@ Completed in 3 weeks. Not perfect, but it's where I started.
 #Skills
 - Unity, C#, A*, Object Pool, JSON Serialization
 
-[linkedin](https://www.linkedin.com/in/leo-huang-b294453aa/)
+[Linkedin profile](https://www.linkedin.com/in/leo-huang-b294453aa/)
