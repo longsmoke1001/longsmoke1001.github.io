@@ -1,14 +1,15 @@
 # longsmoke1001.github.io
 
-Unity Developer
+#About Me
+Self-taught Unity developer with a complete Roguelike game shipped to WebGL and Android. 
 
-little knight
+#little knight
 
 May 2026 – Present
 
 🎮 A 2D Roguelite action game built with Unity and C#.
 
-Features:
+##Features:##
 - 15 levels of combat
 - After each level, choose 1 buff from 3 random cards
 - 9 different buffs: +ATK, +SPD, +ASPD, +HP, thorns, lifesteal, on-hit heal, attack while moving, defend while moving
@@ -23,13 +24,13 @@ Technical highlights:
 📺 Gameplay:https://www.youtube.com/watch?v=VL8Eis9kCTU
 💻 GitHub: https://github.com/longsmoke1001/game-3-6.0
 
-ball jump
+#ball jump#
 
 Dec 2025 – Dec 2025
 
 🎮 My first Unity project — a 3D platformer game.
 
-Features:
+##Features:##
 - 8-direction movement with WASD
 - Moving platforms, disappearing platforms
 - Multi-level system with scene management
@@ -46,8 +47,5 @@ Completed in 3 weeks. Not perfect, but it's where I started.
 
 kills
 - Unity, C#, A*, Object Pool, JSON Serialization
-
-About Me
-Self-taught Unity developer with a complete Roguelite game shipped to WebGL and Android. 
 
 linkedin:https://www.linkedin.com/in/leo-huang-b294453aa/
