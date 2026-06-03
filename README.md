@@ -4,11 +4,9 @@
 Self-taught Unity developer with a complete Roguelike game shipped to WebGL and Android. 
 
 # little knight
-![Little Knight Thumbnail](螢幕擷取畫面 2026-05-26 035242.png)
-
 May 2026 – Present
-
 🎮 A 2D Roguelite action game built with Unity and C#.
+![Little Knight Thumbnail](螢幕擷取畫面 2026-05-26 035242.png)
 
 ## Features:
 - 15 levels of combat
@@ -27,11 +25,9 @@ May 2026 – Present
 💻 [GitHub](https://github.com/longsmoke1001/game-3-6.0)
 
 # ball jump
-![Ball Jump thumbnail](螢幕擷取畫面 2026-06-04 013834.png)
 Dec 2025 – Dec 2025
-
 🎮 My first Unity project — a 3D platformer game.
-
+![Ball Jump thumbnail](螢幕擷取畫面 2026-06-04 013834.png)
 ## Features:
 - 8-direction movement with WASD
 - Normal jump (1 tile) or **Shift + jump** (2 tiles)
@@ -47,7 +43,7 @@ Completed in 3 weeks. Not perfect, but it's where I started.
 📺 [Watch gameplay](https://www.youtube.com/watch?v=8LkKMoMQjss)
 💻 [GitHub](https://github.com/longsmoke1001/Game)
 
-#Skills
+# Skills
 - Unity, C#, A*, Object Pool, JSON Serialization
 
 [Linkedin profile](https://www.linkedin.com/in/leo-huang-b294453aa/)
