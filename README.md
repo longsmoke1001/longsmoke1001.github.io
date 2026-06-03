@@ -23,15 +23,31 @@ Technical highlights:
 📺 Gameplay:https://www.youtube.com/watch?v=VL8Eis9kCTU
 💻 GitHub: https://github.com/longsmoke1001/game-3-6.0
 
-**連結**
-- 🎮 Play on Itch.io
-- 🎬 Watch on YouTube
-- 💻 Source code on GitHub
+ball jump
 
-## 技能
+Dec 2025 – Dec 2025
+
+🎮 My first Unity project — a 3D platformer game.
+
+Features:
+- 8-direction movement with WASD
+- Moving platforms, disappearing platforms
+- Multi-level system with scene management
+- Singleton pattern for game state
+
+This was my learning project while studying Unity and C#. 
+Completed in 3 weeks. Not perfect, but it's where I started.
+
+🎮 Play now: https://play.unity.com/en/games/950e66e8-d9e3-4c06-98db-629959d6e916/jumping-game
+📺 Watch gameplay: https://www.youtube.com/watch?v=8LkKMoMQjss
+💻 GitHub: https://github.com/longsmoke1001/Game
+
+
+
+kills
 - Unity, C#, A*, Object Pool, JSON Serialization
 
-## 關於我
+About Me
 Self-taught Unity developer with a complete Roguelite game shipped to WebGL and Android. 
 
-[GitHub連結] [LinkedIn連結] [Email]
+linkedin:https://www.linkedin.com/in/leo-huang-b294453aa/
