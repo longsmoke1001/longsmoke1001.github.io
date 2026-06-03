@@ -1,6 +1,6 @@
-#Leo Huang
+# Leo Huang
 
-#About Me
+# About Me
 Self-taught Unity developer with a complete Roguelike game shipped to WebGL and Android. 
 
 # little knight
