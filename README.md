@@ -4,6 +4,7 @@
 Self-taught Unity developer with a complete Roguelike game shipped to WebGL and Android. 
 
 # little knight
+![Little Knight Thumbnail](螢幕擷取畫面 2026-05-26 035242.png)
 
 May 2026 – Present
 
@@ -26,7 +27,7 @@ May 2026 – Present
 💻 [GitHub](https://github.com/longsmoke1001/game-3-6.0)
 
 # ball jump
-
+![Ball Jump thumbnail](螢幕擷取畫面 2026-06-04 013834.png)
 Dec 2025 – Dec 2025
 
 🎮 My first Unity project — a 3D platformer game.
