@@ -71,5 +71,5 @@ This was my learning project while studying Unity and C#. Completed in 3 weeks.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/leo-huang-b294453aa/) 
-Email: leohuang[at]gmail.com
+-[LinkedIn](https://www.linkedin.com/in/leo-huang-b294453aa/) 
+-Email: leohuang[at]gmail.com
