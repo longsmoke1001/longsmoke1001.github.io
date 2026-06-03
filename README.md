@@ -2,7 +2,7 @@
 
 ## About Me
 
-Self-taught Unity developer with a complete Roguelite game shipped to WebGL and Android.
+Self-taught Unity developer with a complete Roguelike game shipped to WebGL and Android.
 
 ---
 
@@ -10,7 +10,7 @@ Self-taught Unity developer with a complete Roguelite game shipped to WebGL and 
 
 *May 2026 – Present*
 
-🎮 A 2D Roguelite action game built with Unity and C#.
+🎮 A 2D Roguelike action game built with Unity and C#.
 
 ![Little Knight Thumbnail](螢幕擷取畫面 2026-05-26 035242.png)
 
