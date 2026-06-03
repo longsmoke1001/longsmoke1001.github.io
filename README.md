@@ -42,7 +42,7 @@ Self-taught Unity developer with a complete Roguelite game shipped to WebGL and 
 
 **Features:**
 - 8-direction movement with WASD
-- Normal jump (1 tile) or **Shift + jump** (2 tiles)
+- Normal jump (1 tile) or **Shift jump** (2 tiles)
 - 5 levels with increasing difficulty
 - Platform mechanics: moving, disappearing, one-time-use, and unlockable platforms
 - Players must find optimal routes to reach the goal
@@ -60,7 +60,7 @@ This was my learning project while studying Unity and C#. Completed in 3 weeks.
 ## Skills
 
 - **Languages**: C#
-- **Engine**: Unity 2022.3+
+- **Engine**: Unity 6.0
 - **Design Patterns**: Object Pool, Observer (Event/Action), Singleton, State Machine
 - **Unity-Specific**: ScriptableObject, Coroutine, Animator
 - **Algorithms**: A* pathfinding
