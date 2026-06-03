@@ -44,6 +44,12 @@ Completed in 3 weeks. Not perfect, but it's where I started.
 💻 [GitHub](https://github.com/longsmoke1001/Game)
 
 # Skills
-- Unity, C#, A*, Object Pool, JSON Serialization
+- **Languages**: C#
+- **Engine**: Unity 2022.3+
+- **Design Patterns**: Object Pool, Observer (Event/Action), Singleton, State Machine
+- **Unity-Specific**: ScriptableObject, Coroutine, Animator
+- **Algorithms**: A* pathfinding
+- **Data**: JSON Serialization
+- **Core Concepts**: OOP
 
 [Linkedin profile](https://www.linkedin.com/in/leo-huang-b294453aa/)
