@@ -15,7 +15,7 @@ May 2026 – Present
 - 9 different buffs: +ATK, +SPD, +ASPD, +HP, thorns, lifesteal, on-hit heal, attack while moving, defend while moving
 - Build your own playstyle (attack speed + lifesteal, or thorns + on-hit heal)
 
-Technical highlights:
+##Technical highlights:
 - ScriptableObject for card data
 - Enum-based state machine for player
 - WebGL build playable in browser
